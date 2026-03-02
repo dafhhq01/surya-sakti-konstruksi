@@ -17,7 +17,7 @@ const ProjectDetail = () => {
       id: 1,
       image: '/images/gallery_kitchen.jpg',
       title: 'The Mercer Residence',
-      location: 'San Francisco, CA',
+      location: 'Bali, CA',
       category: 'Kitchen & Joinery',
       description: 'A complete kitchen renovation featuring custom cabinetry, marble countertops, and designer lighting. The clients wanted a space that balanced functionality with elegance, creating a heart of the home that could accommodate both daily family meals and sophisticated entertaining.',
       fullDescription: `This project began with a complete gut renovation of the existing kitchen. We worked closely with the clients to understand their cooking habits, storage needs, and aesthetic preferences. The result is a stunning space that combines warm wood tones with cool marble surfaces.
@@ -113,7 +113,7 @@ The centerpiece is a sculptural freestanding tub positioned to capture natural l
       id: 5,
       image: '/images/gallery_deck.jpg',
       title: 'Rooftop Garden',
-      location: 'San Francisco, CA',
+      location: 'Bali, CA',
       category: 'Outdoor Living',
       description: 'Urban rooftop transformation with custom decking, planters, and outdoor kitchen. Creating an oasis above the city streets.',
       fullDescription: `This rooftop project transformed an underutilized space into a stunning outdoor living area. Working within the constraints of a city rooftop, we created distinct zones for dining, lounging, and gardening.

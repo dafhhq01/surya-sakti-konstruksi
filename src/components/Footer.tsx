@@ -75,7 +75,7 @@ const Footer = () => {
             <ul className="space-y-3 text-sm text-white/70">
               <li>hello@akbaliconstruction.com</li>
               <li>+1 (555) 234-5678</li>
-              <li>1234 Design District<br />San Francisco, CA 94102</li>
+              <li>1234 Design District<br />Bali, CA 94102</li>
             </ul>
           </div>
         </div>

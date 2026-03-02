@@ -128,7 +128,7 @@ const Contact = () => {
     {
       icon: MapPin,
       label: 'Address',
-      value: '1234 Design District\nSan Francisco, CA 94102',
+      value: '1234 Design District\nBali, CA 94102',
       href: '#',
     },
     {

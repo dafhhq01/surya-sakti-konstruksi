@@ -349,7 +349,7 @@ const TestimonialsSection = () => (
           JM
         </div>
         <p className="font-bold text-[#111]">James Mitchell</p>
-        <p className="text-sm text-[#6D6D6D]">Homeowner, San Francisco</p>
+        <p className="text-sm text-[#6D6D6D]">Homeowner, Bali</p>
       </div>
     </div>
   </section>
